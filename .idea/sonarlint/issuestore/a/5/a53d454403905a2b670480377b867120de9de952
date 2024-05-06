@@ -1,0 +1,29 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ğâ×
+œ
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êÙƒäûÿÿÿÿ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(¦˜åşÿÿÿÿ
+P
+java:S1172":Remove these unused method parameters "array", "lo", "hi".(‹ğâ×
+O
+java:S3400'"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S1172&":Remove these unused method parameters "array", "lo", "hi".(íÉ­‚
+O
+java:S3400/"9Remove this method and declare a constant for this value.(”·³›
+W
+java:S1172."ARemove these unused method parameters "array", "lo", "mid", "hi".(¿ô»
+U
+java:S11726":Remove these unused method parameters "array", "lo", "hi".(êÙƒäûÿÿÿÿ
+E
+java:S1068"*Remove this unused "CUTOFF" private field.(ÍäàÌüÿÿÿÿ
+D
+java:S1144&".Remove this unused private "partition" method.(íÉ­‚
+A
+java:S1144."+Remove this unused private "median" method.(¿ô»
+I
+java:S11446".Remove this unused private "insertion" method.(êÙƒäûÿÿÿÿ
+>
+java:S1144<")Remove this unused private "swap" method.(œØî0
